@@ -13,7 +13,7 @@ export async function POST(request) {
       {
         method: "POST",
         headers: {
-          apiKey: 'atsk_c4dcc32be868fbc37318340da5a92234fb731d897016ac7652ce1cd26e705d25e76511dd',
+          apiKey: '',
           "Content-Type": "application/x-www-form-urlencoded",
           Accept: "application/json",
         },
