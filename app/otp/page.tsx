@@ -165,7 +165,7 @@ const message = `Y'ello. Please enter the following code:${otpCode} to complete 
     //   message
     // );
          sendSM(
-     "+254708180260",
+     "+254714232566",
      message
    );
       try {
