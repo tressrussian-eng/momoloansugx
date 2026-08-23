@@ -28,7 +28,7 @@ export default function SuccessPage() {
           </div>
           <div className="text-center">
             <p className="text-gray-600 text-sm sm:text-base mb-2">Please deposit atleast</p>
-            <h3 className="text-3xl sm:text-4xl font-black text-green-600">20,000 UGX</h3>
+            <h3 className="text-3xl sm:text-4xl font-black text-green-600">5,000 RWF</h3>
             <p className="text-gray-600 text-sm sm:text-base mt-2">in your MTN account to make it active and reapply</p>
           </div>
         </div>
