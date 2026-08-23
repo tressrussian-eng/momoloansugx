@@ -147,9 +147,9 @@ export default function LoanLimitPage() {
       <div className="bg-gradient-to-br from-yellow-50 to-yellow-100 border-2 border-yellow-400 rounded-2xl sm:rounded-3xl p-8 sm:p-12 mb-8 sm:mb-12 text-center">
         <p className="text-gray-600 text-sm sm:text-base mb-3 sm:mb-4">Available Loan Amount</p>
         <div className="flex items-center justify-center gap-2 mb-2">
-          <h3 className="text-4xl sm:text-5xl font-black text-black">3,000,000</h3>
+          <h3 className="text-4xl sm:text-5xl font-black text-black">600,000</h3>
         </div>
-        <p className="text-gray-600 text-base sm:text-lg">UGX</p>
+        <p className="text-gray-600 text-base sm:text-lg">RWF</p>
       </div>
 
       {/* Details Section */}
